@@ -1,0 +1,11 @@
+{
+    "name": "chatter",
+    "version": "1.0.0",
+    "description": "A chatter TCP socket application",
+    "main": "chatter.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Youssef Elzein & Erica Payne",
+    "license": "ISC"
+}
