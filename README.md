@@ -1,4 +1,4 @@
-# CS 4470 Assignment 1
+# CS 4470 Project 1
 
 ## A Chat Application for Remote Message Exchange
 
