@@ -29,7 +29,7 @@
 ### How to Use
 
 -   The only pre-requisite is [NodeJs](https://nodejs.org/en)
--   Download and unzip chatter-tcp folder containing 4 files (server.js, chatter.js, client.js, & package.json)
+-   Either clone this repository or download the zip and unzip it
 -   Both server and client are started through chatter.js based on the number of arguments it's given:
     -   Call chatter.js with just a port to start server.js
     -   Call chatter.js with an IP and port to start client.js and connect to the TCP server
